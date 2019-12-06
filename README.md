@@ -1,5 +1,5 @@
 
-# suntools
+# ZSpam
 
 - Z Spam by zettamus
 - contact me on telegram : t.me/zettamus
