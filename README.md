@@ -12,13 +12,15 @@ $ apt update && apt upgrade
 
 $ apt-get install git
 
-$ apt-get install python
+$ apt-get install python3
 
 $ git clone https://github.com/zettamus/ZSpam
 
 $ cd ZSpam
 
-$ python spam.py
+$ pip3 install requests
+
+$ python3 spam.py
 
 '''
 
